@@ -22,21 +22,33 @@ Os defeitos foram classificados considerando impacto no sistema (Severidade) e u
 
 ## Arquivos
 
-- Planilha contendo os Casos de Teste e Bug Reports.
+Planilha contendo:
+
+- Casos de Teste
+- Resultados da execução
+- Relatório de Bugs encontrados
+
+
+## Ferramentas utilizadas
+
+- Teste exploratório
+- Google Sheets (documentação de testes)
+- GitHub (versionamento e compartilhamento)
+
 
 ## Visualização online
 
-Também foi disponibilizado um link para visualização da planilha no Google Sheets:
-
-https://docs.google.com/spreadsheets/d/1Gy_BH3SNANR7-RahhIR_kmjETXp-vM0g8jjueulVI_I/edit?usp=sharing
+Também foi disponibilizado um link para visualização da planilha no Google Sheets:https://docs.google.com/spreadsheets/d/1Gy_BH3SNANR7-RahhIR_kmjETXp-vM0g8jjueulVI_I/edit?usp=sharing
 
 
 ## Priorização de Correção
 
 Os dois defeitos que eu priorizaria para correção seriam:
 
-1. Bug-06- Criação de conta duplicada é permitida
-   Este problema também possui severidade crítica, pois permite a duplicidade de registros de usuários, o que pode gerar inconsistências na base de dados e possíveis problemas no processo de autenticação..
+1. Bug-06- Criação de conta duplicada é permitida.
+   Este defeito possui severidade crítica, pois permite a duplicidade de registros de usuários, o que pode gerar inconsistências na base de dados e possíveis problemas no processo de autenticação..
 
 2. Bug-09- Criação de conta é permitida sem preencher nenhum campo.
-      Este defeito possui severidade crítica, pois permite a criação de registros inválidos no sistema, comprometendo a integridade dos dados.
+   Este problema também possui severidade crítica, pois permite a criação de registros inválidos no sistema, comprometendo a integridade dos dados.
+
+  
