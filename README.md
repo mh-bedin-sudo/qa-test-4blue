@@ -40,6 +40,7 @@ A planilha disponibilizada contém:
 * GitHub para versionamento e compartilhamento do material
 * Mozilla Firefox como navegador utilizado nos testes
 * sistema operacional Linux Mint 22.3 XFCE 64-bit
+* SimpleScreenRecorder para gravação das evidências
 
 ## Visualização online
 
