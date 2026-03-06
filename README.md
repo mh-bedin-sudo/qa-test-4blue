@@ -63,4 +63,4 @@ Os dois defeitos que eu priorizaria para correção seriam:
    - Mostrar mensagens de alerta e feeedback mais intuitivas ao usuário final;
    - Inserir obrigatoriedade nos campos da tela de cadastro de conta;
    - Inserir máscara de formatação no campo de cadastro do telefone;
-   -  incluir um documento como identificador único para o cadastro da conta. 
+   - Incluir um documento como identificador único para o cadastro da conta. 
