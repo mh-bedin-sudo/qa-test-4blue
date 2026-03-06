@@ -56,5 +56,11 @@ Os dois defeitos que eu priorizaria para correção seriam:
 
    
 ## Sugestões finais:
-
-como sugestões de melhorias é possível incluir: alterar o título dos campos deixando caixa alta apenas a primeira letra(tanto na tela de login, quanto na tela de criação de conta), mostrar mensagens de alerta e feeedback mais intuitivas ao usuário final. Inserir nos campos da tela de cadastro de conta, quais deles são obrigatórios e máscara de formatação no campo telefone, incluir um documento como identificador único para o cadastro da conta. 
+ 
+   Como sugestões finais de melhorias é possível incluir: 
+   
+   - Alterar o título dos campos deixando caixa alta apenas a primeira letra(tanto na tela de login, quanto na tela de criação de conta);
+   - Mostrar mensagens de alerta e feeedback mais intuitivas ao usuário final;
+   - Inserir obrigatoriedade nos campos da tela de cadastro de conta;
+   - Inserir máscara de formatação no campo de cadastro do telefone;
+   -  incluir um documento como identificador único para o cadastro da conta. 
