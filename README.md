@@ -51,13 +51,15 @@ https://docs.google.com/spreadsheets/d/1Gy_BH3SNANR7-RahhIR_kmjETXp-vM0g8jjueulV
 
 Entre os defeitos identificados, dois apresentaram maior criticidade e deveriam ser priorizados para correção.
 
-Bug-06 – criação de conta duplicada permitida.
+Bug-04 – Sistema permite login utilizando senha fora do padrão definido.
 
-Esse defeito possui severidade crítica, pois permite a duplicidade de registros de usuários. Esse comportamento pode gerar inconsistências na base de dados e possíveis problemas no processo de autenticação e gerenciamento de contas.
+Esse defeito possui severidade crítica, pois indica possível falha na validação das regras de autenticação do sistema. Permitir acesso com uma senha que não atende aos critérios estabelecidos pode representar uma vulnerabilidade de segurança, além de comprometer a confiabilidade do mecanismo de autenticação.
 
-Bug-09 – criação de conta permitida sem preenchimento de campos.
+Bug-09 – Criação de conta permitida sem preenchimento de campos obrigatórios.
 
-Esse problema também possui severidade crítica, pois permite a criação de registros inválidos no sistema, comprometendo a integridade dos dados e a confiabilidade da base de usuários.
+Esse problema também possui severidade crítica, pois permite a criação de registros inválidos no sistema. Esse comportamento compromete a integridade da base de dados e pode gerar inconsistências, já que múltiplos usuários podem ser cadastrados sem qualquer informação válida, quebrando regras básicas de cadastro.
+
+
 
 ## Sugestões de melhoria
 
