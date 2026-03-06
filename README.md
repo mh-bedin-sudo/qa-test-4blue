@@ -22,4 +22,5 @@ Os defeitos foram classificados considerando impacto no sistema (Severidade) e u
 
 ## Arquivos
 
-- Planilha contendo os Casos de Teste e Bug Reports. Segue também o link da mesma no google sheets para melhor visualização https://docs.google.com/spreadsheets/d/1Gy_BH3SNANR7-RahhIR_kmjETXp-vM0g8jjueulVI_I/edit?usp=sharing
+- Planilha contendo os Casos de Teste e Bug Reports.
+- Segue também o link da mesma no google sheets para melhor visualização https://docs.google.com/spreadsheets/d/1Gy_BH3SNANR7-RahhIR_kmjETXp-vM0g8jjueulVI_I/edit?usp=sharing
